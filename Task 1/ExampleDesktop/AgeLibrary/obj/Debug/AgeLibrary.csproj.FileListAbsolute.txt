@@ -1,0 +1,5 @@
+C:\Users\hongh\source\repos\ExampleDesktop\AgeLibrary\bin\Debug\AgeLibrary.dll
+C:\Users\hongh\source\repos\ExampleDesktop\AgeLibrary\bin\Debug\AgeLibrary.pdb
+C:\Users\hongh\source\repos\ExampleDesktop\AgeLibrary\obj\Debug\AgeLibrary.csproj.CoreCompileInputs.cache
+C:\Users\hongh\source\repos\ExampleDesktop\AgeLibrary\obj\Debug\AgeLibrary.dll
+C:\Users\hongh\source\repos\ExampleDesktop\AgeLibrary\obj\Debug\AgeLibrary.pdb
