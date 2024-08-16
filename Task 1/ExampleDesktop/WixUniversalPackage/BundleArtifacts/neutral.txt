@@ -1,0 +1,2 @@
+MainPackage=C:\Users\hongh\source\repos\ExampleDesktop\WinUniversalPackage\bin\AnyCPU\Debug\WinUniversalPackage_1.0.7.0_AnyCPU_Debug.appx
+SymbolPackage=C:\Users\hongh\source\repos\ExampleDesktop\WinUniversalPackage\AppPackages\WinUniversalPackage_1.0.7.0_Debug_Test\WinUniversalPackage_1.0.7.0_AnyCPU_Debug.appxsym
