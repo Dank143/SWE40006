@@ -1,0 +1,3 @@
+C:\Users\hongh\source\repos\ExampleDesktop\AgeLibrary\bin\Debug\AgeLibrary.dll
+C:\Users\hongh\source\repos\ExampleDesktop\ExampleDesktop\bin\Debug\ExampleDesktop.exe
+C:\Users\hongh\source\repos\ExampleDesktop\GenderLibrary\bin\Debug\GenderLibrary.dll

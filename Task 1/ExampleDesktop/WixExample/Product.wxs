@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Wix xmlns="http://schemas.microsoft.com/wix/2006/wi">
+  <Product Id="*" Name="ExampleDesktopProgram" Language="1033" Version="1.0.0.0" Manufacturer="Dang" UpgradeCode="0df56789-03c3-4559-9ca3-ee8d0bf1369f">
+    <Package InstallerVersion="200" Compressed="yes" InstallScope="perMachine" />
+
+    <MajorUpgrade DowngradeErrorMessage="A newer version of [ProductName] is already installed." />
+    <MediaTemplate EmbedCab="yes"/>
+
+    <Feature Id="ProductFeature" Title="WixExample" Level="1">
+      <ComponentGroupRef Id="ProductComponents" />
+    </Feature>
+  </Product>
+
+  <Fragment>
+    <Directory Id="TARGETDIR" Name="SourceDir">
+      <Directory Id="ProgramFilesFolder">
+        <Directory Id="INSTALLFOLDER" Name="DesktopInstall" />
+      </Directory>
+    </Directory>
+  </Fragment>
+
+  <Fragment>
+    <ComponentGroup Id="ProductComponents" Directory="INSTALLFOLDER">
+      <!-- TODO: Remove the comments around this Component element and the ComponentRef below in order to add resources to this installer. -->
+      <Component Id="ExampleDesktop.exe" Guid="F21E6458-C1C8-4BE3-B038-5AD444A0BA66">
+        <File Id="ExampleDesktop.exe" Name="ExampleDesktop.exe" Source="$(var.ExampleDesktop.TargetDir)ExampleDesktop.exe" />
+      </Component>
+      <Component Id="AgeLibrary.dll" Guid="17A6D323-8973-4A83-BF0D-F4A03A53D278">
+        <File Id="AgeLibrary.dll" Name="AgeLibrary.dll" Source="$(var.AgeLibrary.TargetDir)AgeLibrary.dll" />
+      </Component>
+      <Component Id="GenderLibrary.dll" Guid="46274D44-1AD9-4061-B867-88CA5917D02C">
+        <File Id="GenderLibrary.dll" Name="GenderLibrary.dll" Source="$(var.GenderLibrary.TargetDir)GenderLibrary.dll" />
+      </Component>
+    </ComponentGroup>
+  </Fragment>
+</Wix>
