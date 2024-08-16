@@ -1,0 +1,15 @@
+C:\Users\hongh\source\repos\ExampleDesktop\WinUniversalPackage\Images\LockScreenLogo.scale-200.png
+C:\Users\hongh\source\repos\ExampleDesktop\WinUniversalPackage\Images\Square150x150Logo.scale-200.png
+C:\Users\hongh\source\repos\ExampleDesktop\WinUniversalPackage\Images\Square44x44Logo.scale-200.png
+C:\Users\hongh\source\repos\ExampleDesktop\WinUniversalPackage\Images\Square44x44Logo.targetsize-24_altform-unplated.png
+C:\Users\hongh\source\repos\ExampleDesktop\WinUniversalPackage\Images\StoreLogo.png
+C:\Users\hongh\source\repos\ExampleDesktop\WinUniversalPackage\Images\Wide310x150Logo.scale-200.png
+C:\Program Files (x86)\Windows Kits\10\UnionMetadata\10.0.17763.0\Windows.winmd
+C:\Users\hongh\source\repos\ExampleDesktop\WinUniversalPackage\bin\AnyCPU\Debug\resources.pri
+C:\Users\hongh\source\repos\ExampleDesktop\AgeLibrary\bin\Debug\AgeLibrary.dll
+C:\Users\hongh\source\repos\ExampleDesktop\GenderLibrary\bin\Debug\GenderLibrary.dll
+C:\Users\hongh\source\repos\ExampleDesktop\AgeLibrary\bin\Debug\AgeLibrary.pdb
+C:\Users\hongh\source\repos\ExampleDesktop\GenderLibrary\bin\Debug\GenderLibrary.pdb
+C:\Users\hongh\source\repos\ExampleDesktop\ExampleDesktop\bin\Debug\ExampleDesktop.exe
+C:\Users\hongh\source\repos\ExampleDesktop\ExampleDesktop\bin\Debug\ExampleDesktop.exe.config
+C:\Users\hongh\source\repos\ExampleDesktop\ExampleDesktop\bin\Debug\ExampleDesktop.pdb
