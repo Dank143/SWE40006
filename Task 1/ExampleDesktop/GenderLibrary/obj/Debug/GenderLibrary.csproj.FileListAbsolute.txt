@@ -1,0 +1,5 @@
+C:\Users\hongh\source\repos\ExampleDesktop\GenderLibrary\bin\Debug\GenderLibrary.dll
+C:\Users\hongh\source\repos\ExampleDesktop\GenderLibrary\bin\Debug\GenderLibrary.pdb
+C:\Users\hongh\source\repos\ExampleDesktop\GenderLibrary\obj\Debug\GenderLibrary.csproj.CoreCompileInputs.cache
+C:\Users\hongh\source\repos\ExampleDesktop\GenderLibrary\obj\Debug\GenderLibrary.dll
+C:\Users\hongh\source\repos\ExampleDesktop\GenderLibrary\obj\Debug\GenderLibrary.pdb
