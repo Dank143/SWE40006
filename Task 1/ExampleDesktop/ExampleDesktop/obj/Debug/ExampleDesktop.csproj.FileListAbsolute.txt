@@ -1,0 +1,14 @@
+C:\Users\hongh\source\repos\ExampleDesktop\ExampleDesktop\bin\Debug\ExampleDesktop.exe.config
+C:\Users\hongh\source\repos\ExampleDesktop\ExampleDesktop\bin\Debug\ExampleDesktop.exe
+C:\Users\hongh\source\repos\ExampleDesktop\ExampleDesktop\bin\Debug\ExampleDesktop.pdb
+C:\Users\hongh\source\repos\ExampleDesktop\ExampleDesktop\obj\Debug\ExampleDesktop.Properties.Resources.resources
+C:\Users\hongh\source\repos\ExampleDesktop\ExampleDesktop\obj\Debug\ExampleDesktop.csproj.GenerateResource.cache
+C:\Users\hongh\source\repos\ExampleDesktop\ExampleDesktop\obj\Debug\ExampleDesktop.csproj.CoreCompileInputs.cache
+C:\Users\hongh\source\repos\ExampleDesktop\ExampleDesktop\obj\Debug\ExampleDesktop.exe
+C:\Users\hongh\source\repos\ExampleDesktop\ExampleDesktop\obj\Debug\ExampleDesktop.pdb
+C:\Users\hongh\source\repos\ExampleDesktop\ExampleDesktop\obj\Debug\ExampleDesktop.csprojAssemblyReference.cache
+C:\Users\hongh\source\repos\ExampleDesktop\ExampleDesktop\bin\Debug\AgeLibrary.dll
+C:\Users\hongh\source\repos\ExampleDesktop\ExampleDesktop\bin\Debug\GenderLibrary.dll
+C:\Users\hongh\source\repos\ExampleDesktop\ExampleDesktop\bin\Debug\AgeLibrary.pdb
+C:\Users\hongh\source\repos\ExampleDesktop\ExampleDesktop\bin\Debug\GenderLibrary.pdb
+C:\Users\hongh\source\repos\ExampleDesktop\ExampleDesktop\obj\Debug\ExampleDesktop.csproj.CopyComplete
